@@ -6,5 +6,5 @@ just a small lib for python
 
 
 #Donwload
-```pip install Pytools.api```
+````pip install Pytools.api````
 
